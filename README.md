@@ -48,3 +48,9 @@ SYNTAX:
 </JSWORD>
 
 
+
+
+Note:
+
+WEB5.0 is   focused only  on C/C++  and  DOTNET  technology.
+
