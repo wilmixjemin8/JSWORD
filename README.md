@@ -2,14 +2,16 @@
 ===========
 
 
- JSWORD is a Most Advanced Technology in  CWEB Technologies  which is advanced  business   and  invented  by  wilmix  jemin j
+ JSWORD is a Most Advanced Business Programming Language  
+ 
+ which is MOST advanced  business   and  invented  by  wilmix  jemin j
 
 
 
-JSWORD with  WEB5.0
+JSWORD with  CWEB
 ==================
 
-JSWORD is a Most Advanced Technology in  CWEB Technologies...
+JSWORD is a Most Advanced Programming Language in  CWEB P.L...
 
 So it is ranked as Rank Z'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
@@ -18,9 +20,9 @@ So it is ranked as Rank Z'''''''''''''''''''''''''''''''''''''''''''''''''''''''
 (Can't be determined)
 
 
-JSWORD for  CWEB  is  the   MostAdvancedTechnology with  AdvancedBusiness  invented  in   JAS technology
+JSWORD for  CWEB  is  the   Most Advanced Programming Language with  AdvancedBusiness  invented  in  JDollar  
 
-by wilmix jemin j.
+and  JAS  Programming  Language  by wilmix jemin j.
 
 
 
@@ -52,5 +54,5 @@ SYNTAX:
 
 Note:
 
-WEB5.0 is   focused only  on C/C++  and  DOTNET  technology.
+WEB5.0 is   focused only  on C/C++  and  DOTNET  ProgrammingLanguage.
 
