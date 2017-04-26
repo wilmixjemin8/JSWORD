@@ -11,7 +11,7 @@
 JSWORD with  CWEB
 ==================
 
-JSWORD is a Most Advanced Programming Language in  CWEB P.L...
+JSWORD is a Most Advanced Programming Language in  JWEB(JDOLLAR)    P.L...
 
 So it is ranked as Rank Z'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
@@ -20,9 +20,9 @@ So it is ranked as Rank Z'''''''''''''''''''''''''''''''''''''''''''''''''''''''
 (Can't be determined)
 
 
-JSWORD for  CWEB  is  the   Most Advanced Programming Language with  AdvancedBusiness  invented  
+JSWORD   is  the   Most Advanced Programming Language with  AdvancedBusiness  invented  
 
-in  JAS  Programming  Language  by wilmix jemin j.
+in   JWEB(JDOLLAR)     Programming  Language  by wilmix jemin j.
 
 
 
